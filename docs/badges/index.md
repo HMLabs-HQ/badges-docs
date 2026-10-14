@@ -1,17 +1,14 @@
 ---
-layout: layouts/base-no_sidebar.html
-title: Badge Reference
+title: Badge picker
 ---
 
-*docs / [home](..) / badges*
-
-# {{ title }}
+# Badge picker
 
 Welcome to the badge reference! This place contains the pages to all the badge types and badges, shows how to use the badges, and some recommendations when putting badges in your page.
 
-At the moment, this isn't really the best solution for a badge picker. I am aware :p
+Use the search field in the top navigation to find a service, or browse a style below. Every badge entry includes copy-ready HTML and Markdown.
 
-Also, you don't need to add credit - it would be nice for you to do so, but I really don't care if you do or not. I just make these for fun!
+You don't need to add credit. It is appreciated, but never required.
 
 ## Recommendations
 
@@ -29,7 +26,7 @@ While you don't have to do these, I recommend following these guidelines to make
 
 This is the badge you will usually want to use. Recommended height is 48-64px. 56px is default for `svg` versions.
 
-<img alt="preview" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg">
+<img alt="preview" src="https://cdn.jsdelivr.net/npm/@henrymmey/badges@3/assets/cozy/available/github_vector.svg">
 
 > [Go to the cozy page >](./cozy)
 
@@ -37,7 +34,7 @@ This is the badge you will usually want to use. Recommended height is 48-64px. 5
 
 Compact badges are like cozy, except shorter in height. Recommended height is 32-46px. 40px is default for `svg` versions.
 
-<img alt="preview" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/github_vector.svg">
+<img alt="preview" src="https://cdn.jsdelivr.net/npm/@henrymmey/badges@3/assets/compact/available/github_vector.svg">
 
 > [Go to the compact page >](./compact)
 
@@ -45,9 +42,9 @@ Compact badges are like cozy, except shorter in height. Recommended height is 32
 
 Minimal badges are versions of these badges that have no text. It only displays the icon. Recommended heights are the same as their non-minimal counterparts.
 
-<img alt="preview" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/github_vector.svg">
+<img alt="preview" src="https://cdn.jsdelivr.net/npm/@henrymmey/badges@3/assets/cozy-minimal/available/github_vector.svg">
 
-<img alt="preview" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg">
+<img alt="preview" src="https://cdn.jsdelivr.net/npm/@henrymmey/badges@3/assets/compact-minimal/available/github_vector.svg">
 
 > [Go to the cozy minimal page >](./cozy-minimal)
 
