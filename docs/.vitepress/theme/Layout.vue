@@ -20,6 +20,7 @@ const { Layout } = DefaultTheme;
         <div class="HMFooter__notices">
           <div>© 2026 Henry Meyer.</div>
           <div>Code licensed under MIT • Content under CC0 1.0</div>
+          <div>A <a href="https://hmlabs.eu">HMLabs</a> Project.</div>
         </div>
       </footer>
     </template>
