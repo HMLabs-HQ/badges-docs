@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Documentation/website for Devin's Badges.",
   "scripts": {
-    "build": "env NODE_ENV=production npx eleventy --pathprefix 'devins-badges-docs'",
+    "build": "env NODE_ENV=production npx eleventy --pathprefix 'badges-docs'",
     "serve": "npx eleventy --serve"
   },
   "author": "intergrav",
